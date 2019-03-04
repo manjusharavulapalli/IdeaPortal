@@ -1,0 +1,86 @@
+﻿<Window x:Class="Idea_Portal.AproverForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AproverForm" Height="593.042" Width="731.936" Loaded="Window_Loaded_1">
+    <Window.Resources>
+        <ControlTemplate TargetType="{x:Type Button}" x:Key="LinkButton">
+            <StackPanel Orientation="Horizontal">
+                <TextBlock TextDecorations="UnderLine" Cursor="Hand" Foreground="Blue">
+                <ContentPresenter Content="{TemplateBinding Content}"/>
+                </TextBlock>
+                <!--<Label Content="{TemplateBinding ToolTip}" Name="ID" Visibility="Collapsed"></Label>-->
+            </StackPanel>
+            <ControlTemplate.Triggers>
+                <Trigger Property="IsMouseOver" Value="True">
+                    <Setter Property="Background" Value="Pink"></Setter>
+                </Trigger>
+
+            </ControlTemplate.Triggers>
+
+        </ControlTemplate>
+        <Style x:Key="Familystyle" TargetType="{x:Type Button}">
+            <Setter Property="FontFamily">
+                <Setter.Value>Lucida Calligraphy</Setter.Value>
+            </Setter>
+        </Style>
+
+        <Style x:Key="RequiredFieldLabel" TargetType="{x:Type Label}">
+            <Setter Property="FontSize">
+                <Setter.Value>12</Setter.Value>
+            </Setter>
+            <Setter Property="FontFamily">
+                <Setter.Value>Lucida Calligraphy</Setter.Value>
+            </Setter>
+            <Setter Property="Foreground">
+                <Setter.Value>
+
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,1" >
+                        <GradientStop Color="Purple" Offset="0.25" />
+                        <GradientStop Color="Blue" Offset="1.0" />
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+    <Grid>
+        <DataGrid x:Name="DgRecords" HorizontalAlignment="Left" HorizontalContentAlignment="Center" Margin="10,266,0,0"  AutoGenerateColumns="False" VerticalAlignment="Top" Height="288" Width="692" IsReadOnly="True">
+            <DataGrid.Resources>
+                <Style TargetType="{x:Type DataGridColumnHeader}">
+                    <Setter Property="Foreground" Value="Blue" />
+                    <Setter Property="Height" Value="30"/>
+                </Style>
+            </DataGrid.Resources>
+            <DataGrid.Columns>
+                <DataGridTemplateColumn Header="Idea Id">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+
+
+                            <Button x:Name="BtnIdeaInfo" Content="{Binding ideaid}" Click="BtnIdeaInfo_Click">
+                            </Button>
+
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <!--<DataGridTextColumn Header="IdeaId" Binding="{Binding ideaid}"></DataGridTextColumn>-->
+                <DataGridTextColumn Header="Idea Title" Binding="{Binding Title}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Student Name" Binding="{Binding Name}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Course Name" Binding="{Binding Course}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Status" Binding="{Binding Status}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Pending With" Binding="{Binding PendingWith}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Created On" Binding="{Binding CreatedOn}"></DataGridTextColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+        <StackPanel x:Name="StackLinks" HorizontalAlignment="Left" Height="41" Margin="377,225,0,0" Orientation="Horizontal" VerticalAlignment="Top" Width="274" RenderTransformOrigin="0.515,0.585">
+            <Button x:Name="BtnPendingIdeas" Content="Ideas To Aprove" Template="{StaticResource LinkButton}" Style="{StaticResource ResourceKey=Familystyle}" Margin="5,11,0,10" Click="BtnPendingIdeas_Click" Width="86" FontFamily="Vijaya" FontSize="15" />
+            <Button x:Name="BtnTotalIdeas" Content="List Of Ideas" Template="{StaticResource LinkButton}" Style="{StaticResource Familystyle}" Margin="5,10,0,0" Click="BtnTotalIdeas_Click" Width="70" FontFamily="Vijaya" FontSize="15" />
+            <Button x:Name="BtncourseIdeas" Content="Course Ideas" Template="{StaticResource LinkButton}" Style="{StaticResource Familystyle}" Margin="5,10,0,0" Click="BtnCourseIdeas_Click" Width="72" FontFamily="Vijaya" FontSize="15" />
+
+        </StackPanel>
+        <Image x:Name="ImgAprove" HorizontalAlignment="Left" Height="193" VerticalAlignment="Top" Width="690" Stretch="UniformToFill" Margin="0,34,0,0"/>
+        <TextBox x:Name="TxtSearch" HorizontalAlignment="Left" Height="23" Margin="67,235,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="114"/>
+        <Button x:Name="BtnSearch" Content="Search" HorizontalAlignment="Left" Margin="186,235,0,0" VerticalAlignment="Top" Width="75" Click="BtnSearch_Click"/>
+        <Label x:Name="lblsearch" Content="Idea ID" HorizontalAlignment="Left" Margin="15,235,0,0" VerticalAlignment="Top" Width="47"/>
+        <Label x:Name="lblwish" Style="{StaticResource RequiredFieldLabel}" Content="Label" HorizontalAlignment="Left" Margin="377,10,0,0" VerticalAlignment="Top" Width="274" FontSize="18"/>
+    </Grid>
+</Window>

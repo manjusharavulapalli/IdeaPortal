@@ -1,0 +1,42 @@
+﻿<Window x:Name="NewsletterWIndow" x:Class="Idea_Portal.NewsLetter"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="NewsLetter" Height="378.225" Width="614" ><!--Loaded="NewsletterWIndow_Loaded"-->
+    <Window.Resources>
+        <Style x:Key="LableStyle" TargetType="{x:Type Label}">
+            <Setter Property="Foreground">
+                <Setter.Value>
+
+                    <LinearGradientBrush StartPoint="0,0" EndPoint="1,1" >
+                        <GradientStop Color="Purple" Offset="0.25" />
+                        <GradientStop Color="Blue" Offset="1.0" />
+                    </LinearGradientBrush>
+                </Setter.Value>
+            </Setter>
+        </Style>
+    </Window.Resources>
+
+    <Grid>
+        <Button x:Name="BtnBack" Content="Back"  ToolTip="Back" HorizontalAlignment="Left" Margin="2,1,0,0" VerticalAlignment="Top" Width="47" Click="BtnBack_Click" Height="26">
+            <Button.Template>
+                <ControlTemplate>
+                    <Grid>
+                        <Ellipse>
+                            <Ellipse.Fill>
+                                <ImageBrush ImageSource="Resources/Back.jpg"/>
+                            </Ellipse.Fill>
+                        </Ellipse>
+                    </Grid>
+                </ControlTemplate>
+            </Button.Template>
+        </Button>
+        <Image x:Name="ImgHeader" HorizontalAlignment="left" Height="105" VerticalAlignment="Top" Width="598" Margin="2,232,0,0"/>
+        <Label x:Name="lblActiveusers" Style="{StaticResource LableStyle}" Content="Number of active students" HorizontalAlignment="Left" Margin="38,53,0,0" VerticalAlignment="Top" Width="287" FontSize="18" FontFamily="Lucida Calligraphy"/>
+        <Label x:Name="lblIdeasGenearted"  Style="{StaticResource LableStyle}" Content="Numbers of Ideas Prposed" HorizontalAlignment="Left" Margin="38,93,0,0" VerticalAlignment="Top" Width="287" FontSize="18" FontFamily="Lucida Calligraphy"/>
+        <Label x:Name="IdeasImplemented"  Style="{StaticResource LableStyle}" Content="Number of Ideas implemented" HorizontalAlignment="Left" Margin="38,139,0,0" VerticalAlignment="Top" Width="334" FontSize="18" FontFamily="Lucida Calligraphy"/>
+        <Label HorizontalAlignment="Left" Margin="818,199,-312,0" VerticalAlignment="Top" Width="100"/>
+        <Label x:Name="lblactivestudents" Content="" HorizontalAlignment="Left" Margin="371,60,0,0" VerticalAlignment="Top" Width="36"/>
+        <Label x:Name="lblIdeasproposed" Content="" HorizontalAlignment="Left" Margin="372,97,0,0" VerticalAlignment="Top" Width="36"/>
+        <Label x:Name="lblIdeasImplemented" Content="" HorizontalAlignment="Left" Margin="372,139,0,0" VerticalAlignment="Top" Width="36"/>
+    </Grid>
+</Window>

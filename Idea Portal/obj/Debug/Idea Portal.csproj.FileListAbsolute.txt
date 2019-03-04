@@ -1,0 +1,123 @@
+c:\users\manju\documents\visual studio 2012\Projects\Idea Portal\Idea Portal\bin\Debug\Idea Portal.exe.config
+c:\users\manju\documents\visual studio 2012\Projects\Idea Portal\Idea Portal\obj\Debug\Idea Portal.csprojResolveAssemblyReference.cache
+c:\users\manju\documents\visual studio 2012\Projects\Idea Portal\Idea Portal\obj\Debug\MainWindow.baml
+c:\users\manju\documents\visual studio 2012\Projects\Idea Portal\Idea Portal\obj\Debug\MainWindow.g.cs
+c:\users\manju\documents\visual studio 2012\Projects\Idea Portal\Idea Portal\obj\Debug\App.g.cs
+c:\users\manju\documents\visual studio 2012\Projects\Idea Portal\Idea Portal\obj\Debug\Idea Portal_MarkupCompile.cache
+c:\users\manju\documents\visual studio 2012\Projects\Idea Portal\Idea Portal\obj\Debug\Idea Portal.g.resources
+c:\users\manju\documents\visual studio 2012\Projects\Idea Portal\Idea Portal\obj\Debug\Idea_Portal.Properties.Resources.resources
+c:\users\manju\documents\visual studio 2012\Projects\Idea Portal\Idea Portal\obj\Debug\Idea Portal.csproj.GenerateResource.Cache
+c:\users\manju\documents\visual studio 2012\Projects\Idea Portal\Idea Portal\bin\Debug\Idea Portal.exe
+c:\users\manju\documents\visual studio 2012\Projects\Idea Portal\Idea Portal\bin\Debug\Idea Portal.pdb
+c:\users\manju\documents\visual studio 2012\Projects\Idea Portal\Idea Portal\obj\Debug\Idea Portal.exe
+c:\users\manju\documents\visual studio 2012\Projects\Idea Portal\Idea Portal\obj\Debug\Idea Portal.pdb
+C:\Users\Manju\Documents\visual studio 2012\Projects\Idea Portal\Idea Portal\obj\Debug\Users.baml
+C:\Users\Manju\Documents\visual studio 2012\Projects\Idea Portal\Idea Portal\obj\Debug\Users.g.cs
+C:\Users\Manju\Documents\visual studio 2012\Projects\Idea Portal\Idea Portal\obj\Debug\Admin.baml
+C:\Users\Manju\Documents\visual studio 2012\Projects\Idea Portal\Idea Portal\obj\Debug\Admin.g.cs
+C:\Users\Manju\Documents\Visual Studio 2012\Projects\Idea Portal\Idea Portal\obj\Debug\MyIdea.baml
+C:\Users\Manju\Documents\Visual Studio 2012\Projects\Idea Portal\Idea Portal\obj\Debug\MyIdea.g.cs
+C:\Users\Manju\Documents\Visual Studio 2012\Projects\Idea Portal\Idea Portal\obj\Debug\IdeaGeneration.baml
+C:\Users\Manju\Documents\Visual Studio 2012\Projects\Idea Portal\Idea Portal\obj\Debug\IdeaGeneration.g.cs
+\\telmar\users\MA030\My Documents\Visual Studio 2013\Projects\Idea Portal\Idea Portal\bin\Debug\Idea Portal.exe.config
+\\telmar\users\MA030\My Documents\Visual Studio 2013\Projects\Idea Portal\Idea Portal\obj\Debug\Idea Portal.exe
+\\telmar\users\MA030\My Documents\Visual Studio 2013\Projects\Idea Portal\Idea Portal\obj\Debug\Idea Portal.pdb
+\\telmar\users\MA030\My Documents\Visual Studio 2013\Projects\Idea Portal\Idea Portal\bin\Debug\Idea Portal.exe
+\\telmar\users\MA030\My Documents\Visual Studio 2013\Projects\Idea Portal\Idea Portal\bin\Debug\Idea Portal.pdb
+\\telmar\users\MA030\My Documents\Visual Studio 2013\Projects\Idea Portal\Idea Portal\obj\Debug\Idea Portal.csprojResolveAssemblyReference.cache
+\\telmar\users\MA030\My Documents\Visual Studio 2013\Projects\Idea Portal\Idea Portal\obj\Debug\Admin.baml
+\\telmar\users\MA030\My Documents\Visual Studio 2013\Projects\Idea Portal\Idea Portal\obj\Debug\IdeaGeneration.baml
+\\telmar\users\MA030\My Documents\Visual Studio 2013\Projects\Idea Portal\Idea Portal\obj\Debug\MainWindow.baml
+\\telmar\users\MA030\My Documents\Visual Studio 2013\Projects\Idea Portal\Idea Portal\obj\Debug\MyIdea.baml
+\\telmar\users\MA030\My Documents\Visual Studio 2013\Projects\Idea Portal\Idea Portal\obj\Debug\Users.baml
+\\telmar\users\MA030\My Documents\Visual Studio 2013\Projects\Idea Portal\Idea Portal\obj\Debug\Admin.g.cs
+\\telmar\users\MA030\My Documents\Visual Studio 2013\Projects\Idea Portal\Idea Portal\obj\Debug\IdeaGeneration.g.cs
+\\telmar\users\MA030\My Documents\Visual Studio 2013\Projects\Idea Portal\Idea Portal\obj\Debug\MainWindow.g.cs
+\\telmar\users\MA030\My Documents\Visual Studio 2013\Projects\Idea Portal\Idea Portal\obj\Debug\MyIdea.g.cs
+\\telmar\users\MA030\My Documents\Visual Studio 2013\Projects\Idea Portal\Idea Portal\obj\Debug\Users.g.cs
+\\telmar\users\MA030\My Documents\Visual Studio 2013\Projects\Idea Portal\Idea Portal\obj\Debug\App.g.cs
+\\telmar\users\MA030\My Documents\Visual Studio 2013\Projects\Idea Portal\Idea Portal\obj\Debug\Idea Portal_MarkupCompile.cache
+\\telmar\users\MA030\My Documents\Visual Studio 2013\Projects\Idea Portal\Idea Portal\obj\Debug\Idea Portal.g.resources
+\\telmar\users\MA030\My Documents\Visual Studio 2013\Projects\Idea Portal\Idea Portal\obj\Debug\Idea_Portal.Properties.Resources.resources
+\\telmar\users\MA030\My Documents\Visual Studio 2013\Projects\Idea Portal\Idea Portal\obj\Debug\Idea Portal.csproj.GenerateResource.Cache
+C:\Users\Manju\Desktop\Idea Portal\Idea Portal\bin\Debug\Idea Portal.exe.config
+C:\Users\Manju\Desktop\Idea Portal\Idea Portal\obj\Debug\Idea Portal.exe
+C:\Users\Manju\Desktop\Idea Portal\Idea Portal\obj\Debug\Idea Portal.pdb
+C:\Users\Manju\Desktop\Idea Portal\Idea Portal\bin\Debug\Idea Portal.exe
+C:\Users\Manju\Desktop\Idea Portal\Idea Portal\bin\Debug\Idea Portal.pdb
+C:\Users\Manju\Desktop\Idea Portal\Idea Portal\obj\Debug\Idea Portal.csprojResolveAssemblyReference.cache
+C:\Users\Manju\Desktop\Idea Portal\Idea Portal\obj\Debug\Admin.baml
+C:\Users\Manju\Desktop\Idea Portal\Idea Portal\obj\Debug\IdeaGeneration.baml
+C:\Users\Manju\Desktop\Idea Portal\Idea Portal\obj\Debug\MainWindow.baml
+C:\Users\Manju\Desktop\Idea Portal\Idea Portal\obj\Debug\MyIdea.baml
+C:\Users\Manju\Desktop\Idea Portal\Idea Portal\obj\Debug\Admin.g.cs
+C:\Users\Manju\Desktop\Idea Portal\Idea Portal\obj\Debug\IdeaGeneration.g.cs
+C:\Users\Manju\Desktop\Idea Portal\Idea Portal\obj\Debug\MainWindow.g.cs
+C:\Users\Manju\Desktop\Idea Portal\Idea Portal\obj\Debug\MyIdea.g.cs
+C:\Users\Manju\Desktop\Idea Portal\Idea Portal\obj\Debug\App.g.cs
+C:\Users\Manju\Desktop\Idea Portal\Idea Portal\obj\Debug\Idea Portal_MarkupCompile.cache
+C:\Users\Manju\Desktop\Idea Portal\Idea Portal\obj\Debug\Idea Portal.g.resources
+C:\Users\Manju\Desktop\Idea Portal\Idea Portal\obj\Debug\Idea_Portal.Properties.Resources.resources
+C:\Users\Manju\Desktop\Idea Portal\Idea Portal\obj\Debug\Idea Portal.csproj.GenerateResource.Cache
+C:\Users\Manju\Desktop\Idea Portal\Idea Portal\obj\Debug\IdeasRecords.baml
+C:\Users\Manju\Desktop\Idea Portal\Idea Portal\obj\Debug\IdeasRecords.g.cs
+C:\Users\Manju\Desktop\Idea Portal\Idea Portal\obj\Debug\IdeaInfoReadOnly.baml
+C:\Users\Manju\Desktop\Idea Portal\Idea Portal\obj\Debug\IdeaInfoReadOnly.g.cs
+C:\Users\Manju\Desktop\Idea Portal\Idea Portal\obj\Debug\AproverForm.baml
+C:\Users\Manju\Desktop\Idea Portal\Idea Portal\obj\Debug\AproverForm.g.cs
+\\telmar\users\MA030\Desktop\Idea Portal\Idea Portal\bin\Debug\Idea Portal.exe.config
+\\telmar\users\MA030\Desktop\Idea Portal\Idea Portal\obj\Debug\Idea Portal.exe
+\\telmar\users\MA030\Desktop\Idea Portal\Idea Portal\obj\Debug\Idea Portal.pdb
+\\telmar\users\MA030\Desktop\Idea Portal\Idea Portal\bin\Debug\Idea Portal.exe
+\\telmar\users\MA030\Desktop\Idea Portal\Idea Portal\bin\Debug\Idea Portal.pdb
+\\telmar\users\MA030\Desktop\Idea Portal\Idea Portal\obj\Debug\Idea Portal.csprojResolveAssemblyReference.cache
+\\telmar\users\MA030\Desktop\Idea Portal\Idea Portal\obj\Debug\Admin.baml
+\\telmar\users\MA030\Desktop\Idea Portal\Idea Portal\obj\Debug\AproverForm.baml
+\\telmar\users\MA030\Desktop\Idea Portal\Idea Portal\obj\Debug\IdeaGeneration.baml
+\\telmar\users\MA030\Desktop\Idea Portal\Idea Portal\obj\Debug\IdeaInfoReadOnly.baml
+\\telmar\users\MA030\Desktop\Idea Portal\Idea Portal\obj\Debug\IdeasRecords.baml
+\\telmar\users\MA030\Desktop\Idea Portal\Idea Portal\obj\Debug\MainWindow.baml
+\\telmar\users\MA030\Desktop\Idea Portal\Idea Portal\obj\Debug\MyIdea.baml
+\\telmar\users\MA030\Desktop\Idea Portal\Idea Portal\obj\Debug\Admin.g.cs
+\\telmar\users\MA030\Desktop\Idea Portal\Idea Portal\obj\Debug\AproverForm.g.cs
+\\telmar\users\MA030\Desktop\Idea Portal\Idea Portal\obj\Debug\IdeaGeneration.g.cs
+\\telmar\users\MA030\Desktop\Idea Portal\Idea Portal\obj\Debug\IdeaInfoReadOnly.g.cs
+\\telmar\users\MA030\Desktop\Idea Portal\Idea Portal\obj\Debug\IdeasRecords.g.cs
+\\telmar\users\MA030\Desktop\Idea Portal\Idea Portal\obj\Debug\MainWindow.g.cs
+\\telmar\users\MA030\Desktop\Idea Portal\Idea Portal\obj\Debug\MyIdea.g.cs
+\\telmar\users\MA030\Desktop\Idea Portal\Idea Portal\obj\Debug\App.g.cs
+\\telmar\users\MA030\Desktop\Idea Portal\Idea Portal\obj\Debug\Idea Portal_MarkupCompile.cache
+\\telmar\users\MA030\Desktop\Idea Portal\Idea Portal\obj\Debug\Idea Portal.g.resources
+\\telmar\users\MA030\Desktop\Idea Portal\Idea Portal\obj\Debug\Idea_Portal.Properties.Resources.resources
+\\telmar\users\MA030\Desktop\Idea Portal\Idea Portal\obj\Debug\Idea Portal.csproj.GenerateResource.Cache
+\\telmar\users\MA030\Desktop\Idea Portal\Idea Portal\obj\Debug\NewsLetter.baml
+\\telmar\users\MA030\Desktop\Idea Portal\Idea Portal\obj\Debug\NewsLetter.g.cs
+C:\Users\Manju\Desktop\Idea Portal\Idea Portal\obj\Debug\NewsLetter.baml
+C:\Users\Manju\Desktop\Idea Portal\Idea Portal\obj\Debug\NewsLetter.g.cs
+F:\Manju Project\Idea Portal\Idea Portal\bin\Debug\Idea Portal.exe.config
+F:\Manju Project\Idea Portal\Idea Portal\obj\Debug\Idea Portal.exe
+F:\Manju Project\Idea Portal\Idea Portal\obj\Debug\Idea Portal.pdb
+F:\Manju Project\Idea Portal\Idea Portal\bin\Debug\Idea Portal.exe
+F:\Manju Project\Idea Portal\Idea Portal\bin\Debug\Idea Portal.pdb
+F:\Manju Project\Idea Portal\Idea Portal\obj\Debug\Idea Portal.csprojResolveAssemblyReference.cache
+F:\Manju Project\Idea Portal\Idea Portal\obj\Debug\Admin.baml
+F:\Manju Project\Idea Portal\Idea Portal\obj\Debug\AproverForm.baml
+F:\Manju Project\Idea Portal\Idea Portal\obj\Debug\IdeaGeneration.baml
+F:\Manju Project\Idea Portal\Idea Portal\obj\Debug\IdeaInfoReadOnly.baml
+F:\Manju Project\Idea Portal\Idea Portal\obj\Debug\IdeasRecords.baml
+F:\Manju Project\Idea Portal\Idea Portal\obj\Debug\MainWindow.baml
+F:\Manju Project\Idea Portal\Idea Portal\obj\Debug\MyIdea.baml
+F:\Manju Project\Idea Portal\Idea Portal\obj\Debug\NewsLetter.baml
+F:\Manju Project\Idea Portal\Idea Portal\obj\Debug\Admin.g.cs
+F:\Manju Project\Idea Portal\Idea Portal\obj\Debug\AproverForm.g.cs
+F:\Manju Project\Idea Portal\Idea Portal\obj\Debug\IdeaGeneration.g.cs
+F:\Manju Project\Idea Portal\Idea Portal\obj\Debug\IdeaInfoReadOnly.g.cs
+F:\Manju Project\Idea Portal\Idea Portal\obj\Debug\IdeasRecords.g.cs
+F:\Manju Project\Idea Portal\Idea Portal\obj\Debug\MainWindow.g.cs
+F:\Manju Project\Idea Portal\Idea Portal\obj\Debug\MyIdea.g.cs
+F:\Manju Project\Idea Portal\Idea Portal\obj\Debug\NewsLetter.g.cs
+F:\Manju Project\Idea Portal\Idea Portal\obj\Debug\App.g.cs
+F:\Manju Project\Idea Portal\Idea Portal\obj\Debug\Idea Portal_MarkupCompile.cache
+F:\Manju Project\Idea Portal\Idea Portal\obj\Debug\Idea Portal.g.resources
+F:\Manju Project\Idea Portal\Idea Portal\obj\Debug\Idea_Portal.Properties.Resources.resources
+F:\Manju Project\Idea Portal\Idea Portal\obj\Debug\Idea Portal.csproj.GenerateResource.Cache
